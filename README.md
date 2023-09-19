@@ -4,7 +4,8 @@ in this repo we make customer segmentation using RFM analysis technique :
 In any business we are understanding that the customers are the key to success , so many different types of people out there, it can be hard to figure out how to market your products or services in a way that resonates with everyone. That's where customer segmentation comes in.
 By understanding the diverse needs of your customers, you can create personalized experiences, deliver targeted messaging, and build lasting relationships.
 
-customer segmentation by dividing your customers based on similar characteristics demographics, behaviors, purchasing habits, interests,geographics  or other factors that are relevant to your business.
+customer segmentation by dividing your customers based on similar characteristics demographics, behaviors, purchasing habits, interests,geographics  or other factors that are relevant to your business.![newplot (1)](https://github.com/fatma-elshall/customer_segmentation/assets/90958050/ffc505f1-aab8-4d4e-97ee-14b4b0ba290a)
+
 
 # benefits of customer segmentation :
 * it allows businesses to gain deep insights into their customer base, uncovering patterns and trends that might otherwise go unnoticed.
@@ -27,16 +28,5 @@ clustering using machine learning algotithm (Kmeans) :
   -  Frequancy (F) :the number of times the customer visits the site.
   - Monetary (M) : amount of money paid by customer.
 
-    next  we  will calculate these 3 components for each of the customers and segment them to groups.
-
-
-
-
-
-
-![newplot (1)](https://github.com/fatma-elshall/customer_segmentation/assets/90958050/bf9a25b0-09f4-41ae-8f7f-4d4a57bdc19a)
-
-
-
-
+    next  we  will calculate these 3 components for each of the customers and segment them to groups
 to increase profit of your target campagin and developing marketing strategy of your company 
